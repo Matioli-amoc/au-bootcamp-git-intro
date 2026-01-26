@@ -109,3 +109,4 @@ done
 echo "$total"
 
 #grep counts sequences in the file
+#Using a for loop to run through all the files
