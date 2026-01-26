@@ -108,3 +108,4 @@ done
 
 echo "$total"
 
+#grep counts sequences in the file
