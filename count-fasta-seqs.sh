@@ -109,3 +109,5 @@ done
 echo "$total"
 
 #grep counts sequences in the file
+
+echo "We did it!"
